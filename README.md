@@ -1,2 +1,2 @@
 # Images
-backgroundg image
+background image
